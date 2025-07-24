@@ -1,41 +1,100 @@
+
+
+/* body{
+
+display:flex;
+flex-direction:column;
+justify-content:center;
+
+} */
+
+
+ 
+.btn{
+background-color: #E95A08;
+font-weight:500 ;
+width: 100%;
+color: white;
+font-size: medium;
+padding: 12px;  ;
+
+}
 .text-color
 {
-color: #C4C4C4;
+color: #8987A1;
+
+
 }
 .h4{
 color: #8987A1;
 font-weight: 500;
 }
-.body{background-color: #F5F8FF;}
-.fresh{
-font-size: 60px;
+.body{background-color: #F5F8FF;
+
+
+
 }
+
 .span
 {
 color:#E95A08 ;
 
 }
-@media screen and (min-width:428px) and (max-width:2560px){
+@media screen and (min-width:428px) and (max-width:2660px){
+body{
+margin: 100px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
 .header
 {
  
 
 }
+.nav{
+
+}
+
 .banner{
 margin-top: 150px;
 display: flex;
 flex-direction: row-reverse;
-justify-content: center;
+
+max-width: 100%;
 }
-.fresh-flower
+.img
 {
-align-items: end;
+width: 100%;
 }
 .cart{
  gap: 50px;
 }
+.fresh-flower
+{
+align-items: end;
+width: 100%;
+}
 
+.card
+{
+width: 100%;
+gap: 20px;
+}
 
+.btn{
+font-weight:500 ;
+width: 100%;
+color: white;
+font-size: medium;
+padding:10px  ;
+}
+.Lily-Blossom{
+display: grid;
+grid-template-columns: repeat(4,1fr);
+
+}
 
 
 }
