@@ -1,0 +1,26 @@
+
+.h4{
+color: #8987A1;
+font-weight: 500;
+}
+@media screen and (min-width:428px) and (max-width:1440px){
+
+
+.cart{
+ gap: 50px;
+}
+
+
+
+
+}
+@media screen and (max-width:425px){
+.hide 
+{
+/* display: none;
+flex-direction:column ;
+background-color: aqua; */
+}
+
+
+}
