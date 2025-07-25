@@ -35,15 +35,15 @@ justify-content:center;
 }
 
 .colourful-branch {
-    background-image: url("/B12A02-Responsive-Flowers/assets/news-letter-bg.png");
-    height: 533px;
-    width: 100%;
-background-size: cover;
-  }
+  background-image: url("/B12A02-Responsive-Flowers/assets/news-letter-bg.png");
+  height: 533px;
+  width: 100%;
+  background-size: cover;
+}
 .email {
-    background-color: #ffffff;
-    padding-left: 20px;
-  }
+  background-color: #ffffff;
+  padding-left: 20px;
+}
 @media screen and (min-width: 428px) and (max-width: 2660px) {
   .header {
     max-width: 2000px;
@@ -138,7 +138,7 @@ background-size: cover;
     background-image: url("B12A02-Responsive-Flowers/assets/news-letter-bg.png");
     height: 533px;
     width: 100%;
-background-size: cover;
+    background-size: cover;
   }
   .join {
     width: 700px;
@@ -148,7 +148,6 @@ background-size: cover;
     color: #ffffff;
   }
 
-  
   .Subscribe {
     width: 30%;
   }
@@ -162,10 +161,7 @@ background-size: cover;
     /* flex-direction:column ;
 background-color: aqua; */
   }
-  
-  }
- 
-  /* .colourful-branch {
+}
+
+/* .colourful-branch {
     background-image: url("/B12A02-Responsive-Flowers/assets/news-letter-bg.png"); */
-
-
